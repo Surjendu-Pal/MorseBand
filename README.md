@@ -1,7 +1,7 @@
 # MorseBand
 
 <img src="29e50057-b8d4-4e4f-abeb-69656ebe4ac1.jpg" alt="Project Photo" height="400" width="700"/>
-<sub>*Replace this image with your actual project or breadboard photo for best effect.*</sub>
+<sub>* breadboard photo *</sub>
 
 ---
 
